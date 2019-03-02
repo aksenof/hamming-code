@@ -17,4 +17,4 @@
 7) Программа исправляет ошибку (меняет обратно 1 на 0, или наоборот, 0 на 1)
 8) Сообщение дешифруется в исходные данные
 
-![example](https://github.com/aksenof/hamming-code/example.png)
+![example](https://raw.githubusercontent.com/aksenof/hamming-code/master/example.png)
